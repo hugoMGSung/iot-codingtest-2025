@@ -157,6 +157,9 @@ IoT 개발자 코딩테스트 준비 리포지토리
 
 ### 깃헙 팁
 - https://github.com/hugoMGSung 주소에 com -> dev
+    - 브라우저 상에서 온라인 VS Code가 실행
+    - 로컬 VS Code와 동일하게 사용가능
+    - Python 플러그인은 차후 다시 확인
 
 ### 스택
 
